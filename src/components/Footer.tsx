@@ -86,9 +86,9 @@ export const Footer: React.FC = () => {
               <div className="flex items-start space-x-3 text-white/80">
                 <MapPin className="w-5 h-5 mt-0.5" />
                 <div>
-                  <p>123 Travel Street</p>
-                  <p>Victoria Island, Lagos</p>
+                  <p>Jalingo, Taraba State</p>
                   <p>Nigeria</p>
+                  <p>Natures Gift To The Nation</p>
                 </div>
               </div>
             </div>
@@ -104,7 +104,7 @@ export const Footer: React.FC = () => {
             <div className="flex space-x-6 text-sm text-white/60">
               <span>Powered by Innovation</span>
               <span>•</span>
-              <span>Made in Nigeria 🇳🇬</span>
+              <span>Made in Taraba 🇳🇬</span>
             </div>
           </div>
         </div>
