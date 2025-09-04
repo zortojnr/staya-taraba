@@ -87,7 +87,6 @@ export const Footer: React.FC = () => {
                 <MapPin className="w-5 h-5 mt-0.5" />
                 <div>
                   <p>Jalingo, Taraba State</p>
-                  <p>Nigeria</p>
                   <p>Natures Gift To The Nation</p>
                 </div>
               </div>
